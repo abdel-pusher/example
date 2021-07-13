@@ -1,0 +1,3 @@
+# Just an example
+
+Here is an example to test creating a local repo
